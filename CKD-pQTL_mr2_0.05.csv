@@ -1,0 +1,7 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval,pval1,OR,or_uci95,or_lci95
+CKD_overall_EA_JW_20180223_nstud23,11543_84_LIMA1_LIMA1,LIMA1,CKD,Inverse variance weighted (fixed effects),1331,0.063162793,0.003312505,4.66E-81,0,1.065200233,1.072138554,1.058306812
+CKD_overall_EA_JW_20180223_nstud23,6580_29_PZP_Pregnancy_zone_protein,PZP,CKD,Inverse variance weighted (fixed effects),991,0.05207287,0.003673956,1.34E-45,0,1.053452505,1.061065747,1.045893888
+CKD_overall_EA_JW_20180223_nstud23,4563_61_PLCG1_PLCG1,PLCG1,CKD,Inverse variance weighted (fixed effects),1331,0.045303535,0.003323785,2.65E-42,0,1.046345414,1.053184208,1.039551028
+CKD_overall_EA_JW_20180223_nstud23,19154_41_SERPINE2_Protease_nexin_I,SERPINE2,CKD,Inverse variance weighted (multiplicative random effects),1247,-0.009655771,0.00384656,1.21E-02,0.012,0.990390696,0.997885724,0.982951963
+CKD_overall_EA_JW_20180223_nstud23,6366_38_TXNDC15_TXD15,TXNDC15,CKD,Inverse variance weighted (fixed effects),1331,-0.020612991,0.00340875,1.47E-09,0,0.979598004,0.986164757,0.973074979
+CKD_overall_EA_JW_20180223_nstud23,2681_23_HGF_HGF,HGF,CKD,Inverse variance weighted (fixed effects),1331,-0.04483471,0.003389971,6.24E-40,0,0.956155512,0.962529689,0.949823547
